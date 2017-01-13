@@ -1,4 +1,5 @@
 # html-help
 <p>Hello! HTML HELP</p>
 # Spellcheck
-Ok Speell scheel this up can you?
+# Please don't mess with this stuff.
+# By the way, I am not a professional or even a mediocre coder! Sorry!
