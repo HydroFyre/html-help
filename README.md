@@ -1,2 +1,3 @@
 # html-help
-<p>Hello! HTML HALP</p>
+<p>Hello! HTML HELP</p>
+# Spellcheck
