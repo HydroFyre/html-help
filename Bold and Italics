@@ -1,0 +1,8 @@
+# You can use the <strong> or <b> tags to make bold text inside <p> tags, like this:
+<p><strong>HELLO</strong></p>
+
+# Or you could use <b>, like this:
+<p><b>HELLO</b></p>
+
+# For Italics, just use the <i> tag, like this:
+<p><i>HELLO</i></p>
