@@ -1,13 +1,13 @@
-#If you want to make an ordered list, use the <ol> tag with the <li> tag after it. You need to open and close the <li> tag
-#for each item of the list. Look at the example below.
+# If you want to make an ordered list, use the <ol> tag with the <li> tag after it. You need to open and close the <li> tag
+# for each item of the list. Look at the example below.
 <ol><li>hello1</li>
 <li>hello2</li>
 <li>hello3</li></ol>
 
-#That would give you a numbered list with each of those items, in this case "hello1", "hello2", and "hello3". If you want to make
-#an unordered list with bullet points, use the <ul> tag instead, like this:
+# That would give you a numbered list with each of those items, in this case "hello1", "hello2", and "hello3". If you want to make
+# an unordered list with bullet points, use the <ul> tag instead, like this:
 <ul><li>hello1</li>
 <li>hello2</li>
 <li>hello3</li></ul>
 
-#That would replace the numbers with bullet points. Thanks for reading!
+# That would replace the numbers with bullet points.
