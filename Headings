@@ -1,0 +1,9 @@
+# Headings are simple, except you need to number them. For example, if this was your first heading in a website code,you would
+# write the tag as <h1>. If it was your second, <h2>, and so on. Here's an example.
+<h1>Welcome to my site!</h1>
+<p>This is some text</p>
+#Now I put a second heading:
+<h2>Here is another heading!</h2>
+<p>Here is more text</p>
+
+# Remember to number your headings!
