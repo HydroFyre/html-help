@@ -1,0 +1,6 @@
+# If you want to put in a hyperlink, you need to you a special, short tag. The <a> tag. Look at this example:
+
+<a href="http://example.com>Visit this website!</a>
+
+# You need to put the "href" prefix before the link, and then close the entry tag. Afterwards, you put what you want the hyperlink
+# to look like, and then close the tag.
