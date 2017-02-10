@@ -1,0 +1,4 @@
+# If you are slightly more enlightened than I am and want to put some external non-html code into your site, use the <code> tag.
+# It is kind of like a heading or <p> tag. Look at the example:
+
+<code>Some piece of code that I don't know</code>
