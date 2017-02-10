@@ -1,0 +1,6 @@
+<!DOCTYPE>
+
+# The <!DOCTYPE> tag does not have much to it. You put it at the beginning and end of every HTML project. Without it, the computer
+# doesn't know whether it is an HTML text set or not, and it will not show anything, no matter how many times you check your code.
+
+<!DOCTYPE>
