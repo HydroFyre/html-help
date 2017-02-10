@@ -1,2 +1,2 @@
-<p><strong>Hello! this is HTML HELP. This is a source for learning basic html programming.</strong></p>
-# Please don't hate on me, I am not a professional or even a mediocre coder! Sorry!
+<h1><strong>Hello! this is HTML HELP. This is a source for learning basic html programming.</strong></h1>
+<p>Please do not express your anger towards me, I am not a very accomplished programmer. My Apologies</p>
