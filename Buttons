@@ -1,0 +1,6 @@
+# If you want to add a button that you can click on, use the <button> tag. A simple button would look like this:
+
+<button type="button">Click this now!</button>
+
+# This will give the viewer something to click on. Like the <a> tag, the entry tag encompasses a type, and then closes before
+# the actual button text. After that, it ends.
